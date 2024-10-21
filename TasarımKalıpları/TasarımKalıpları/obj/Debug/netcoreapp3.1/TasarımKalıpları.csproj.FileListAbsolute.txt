@@ -1,0 +1,13 @@
+C:\Users\esrad\Desktop\TasarımKalıpları\TasarımKalıpları\bin\Debug\netcoreapp3.1\TasarımKalıpları.exe
+C:\Users\esrad\Desktop\TasarımKalıpları\TasarımKalıpları\bin\Debug\netcoreapp3.1\TasarımKalıpları.deps.json
+C:\Users\esrad\Desktop\TasarımKalıpları\TasarımKalıpları\bin\Debug\netcoreapp3.1\TasarımKalıpları.runtimeconfig.json
+C:\Users\esrad\Desktop\TasarımKalıpları\TasarımKalıpları\bin\Debug\netcoreapp3.1\TasarımKalıpları.runtimeconfig.dev.json
+C:\Users\esrad\Desktop\TasarımKalıpları\TasarımKalıpları\bin\Debug\netcoreapp3.1\TasarımKalıpları.dll
+C:\Users\esrad\Desktop\TasarımKalıpları\TasarımKalıpları\bin\Debug\netcoreapp3.1\TasarımKalıpları.pdb
+C:\Users\esrad\Desktop\TasarımKalıpları\TasarımKalıpları\obj\Debug\netcoreapp3.1\TasarımKalıpları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esrad\Desktop\TasarımKalıpları\TasarımKalıpları\obj\Debug\netcoreapp3.1\TasarımKalıpları.AssemblyInfoInputs.cache
+C:\Users\esrad\Desktop\TasarımKalıpları\TasarımKalıpları\obj\Debug\netcoreapp3.1\TasarımKalıpları.AssemblyInfo.cs
+C:\Users\esrad\Desktop\TasarımKalıpları\TasarımKalıpları\obj\Debug\netcoreapp3.1\TasarımKalıpları.csproj.CoreCompileInputs.cache
+C:\Users\esrad\Desktop\TasarımKalıpları\TasarımKalıpları\obj\Debug\netcoreapp3.1\TasarımKalıpları.dll
+C:\Users\esrad\Desktop\TasarımKalıpları\TasarımKalıpları\obj\Debug\netcoreapp3.1\TasarımKalıpları.pdb
+C:\Users\esrad\Desktop\TasarımKalıpları\TasarımKalıpları\obj\Debug\netcoreapp3.1\TasarımKalıpları.genruntimeconfig.cache
